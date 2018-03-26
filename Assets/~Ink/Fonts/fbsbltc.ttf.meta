@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc9103fdf84fc5141a09bd9373d94086
+timeCreated: 1521812448
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fatboy Slim BLTC BRK
+  fontNames:
+  - Fatboy Slim BLTC BRK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
